@@ -22,6 +22,13 @@
 
 <p align="center"> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
 
+<h2 align="center">📱Android APK:
+  <a href="https://expo.dev/accounts/jones_j/projects/daily_planner_app/builds/d27588f5-9c41-4cf4-b596-102182bf1fa0" align="center">(📱Apk)
+  </a></h2>
+
+  <h2 align="center">📱App design link
+  <a href="" align="center">(Figma Design❤️)
+  </a></h2>
 
 
 
