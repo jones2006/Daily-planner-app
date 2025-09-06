@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jones</h1>
+<h1 align="center">Hi 👋, I'm <span><a href="https://www.linkedin.com/in/jones-j06/" >jones</a></span></h1>
 <h3 align="center">UI/UX Designer & React Native Developer passionate about creating user-friendly mobile experiences.</h3>
 
 
