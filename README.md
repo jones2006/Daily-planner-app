@@ -1,50 +1,27 @@
-# Welcome to your Expo app 👋
+<h1 align="center">Hi 👋, I'm jones</h1>
+<h3 align="center">UI/UX Designer & React Native Developer passionate about creating user-friendly mobile experiences.</h3>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+<h3 align="center"> Daily planner App📱 </h3>
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+<div align="center">
+ <img width="150" height="497" alt="Screenshot 2025-09-06 114806" src="https://github.com/user-attachments/assets/4d674960-d891-4b4b-b26c-90af274ffe03" />
+<img width="150" height="476" alt="Screenshot 2025-09-06 114815" src="https://github.com/user-attachments/assets/375abec5-834b-4771-9796-f19d9b267f78" />
+<img width="150" height="476" alt="Screenshot 2025-09-06 114826" src="https://github.com/user-attachments/assets/5501276b-b7bb-46df-8dea-b81b6b7f1c14" />
+<img width="150" height="480" alt="Screenshot 2025-09-06 114840" src="https://github.com/user-attachments/assets/c0a1f73e-4bb6-4230-9440-0ddf8137d006" />
+<img width="150" height="476" alt="Screenshot 2025-09-06 114906" src="https://github.com/user-attachments/assets/d1e7759d-79e9-45ab-8ce9-44cf7ada515d" />
+<img width="150" height="481" alt="Screenshot 2025-09-06 114917" src="https://github.com/user-attachments/assets/ad68949f-24a2-4002-9f87-d807062c680c" />
+</div>
 
-   ```bash
-   npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+<h3 align="center">Languages and Tools:</h3>
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+<p align="center"> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
 
-When you're ready, run:
 
-```bash
-npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
